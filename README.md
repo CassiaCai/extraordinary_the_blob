@@ -39,6 +39,7 @@ All analysis notebooks live in `notebooks/`.
    MHW discussion.
 9. `figure1.ipynb`, `figure2.ipynb`, `supfigS1.ipynb`: Figure generation.
 10. `ocetrac_on_lens_SSTadef.ipynb`: Ocetrac on 100 LENS members using varying Ocetrac parameters and SSTa definitions
+
 `analysis_functions.py` and `cesm2_lens_utils.py` contain shared utility functions
 (detrending, anomaly calculation, regridding) used across the notebooks above.
 
